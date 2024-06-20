@@ -4,8 +4,11 @@ Descrição
 Este projeto é uma aplicação simples em Java para gerenciar informações de funcionários. Ele permite adicionar, pesquisar e listar funcionários, fornecendo um menu interativo para o usuário.
 
 Estrutura do Projeto
+
 Project: Contém a classe principal Main que inicializa e executa o programa.
+
 Project.utility: Contém a classe Utility com métodos utilitários para o menu e operações com funcionários.
+
 entity: Contém as classes Pessoa e Funcionario que representam os dados dos funcionários.
 
 Funcionalidades
@@ -25,7 +28,9 @@ Project.utility.Utility
 Contém métodos utilitários:
 
 menu(): Exibe o menu e retorna a escolha do usuário.
+
 cadastrarFuncionario(): Solicita as informações do funcionário ao usuário e retorna um objeto Funcionario.
+
 acharFuncionario(List<Funcionario> func, Integer id): Busca e exibe informações de um funcionário pelo ID.
 
 entity.Pessoa
