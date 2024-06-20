@@ -21,14 +21,16 @@ Sair: Encerra o programa.
 
 Requisitos
 Java 8 ou superior
+
 IDE para Java (Eclipse, IntelliJ, NetBeans, etc.) ou ambiente de linha de comando configurado para Java
 
 Estrutura de Classes
+
 Project.Main
+
 A classe principal que contém o método main. Ela inicializa um scanner para entrada do usuário e uma lista de funcionários. O loop principal do programa exibe um menu com três opções e executa a ação selecionada.
 
-Project.utility.Utility
-Contém métodos utilitários:
+Project.utility.Utility contém métodos utilitários: 
 
 menu(): Exibe o menu e retorna a escolha do usuário.
 
