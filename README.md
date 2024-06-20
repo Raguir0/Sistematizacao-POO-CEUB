@@ -32,11 +32,17 @@ entity.Pessoa
 Classe base que representa uma pessoa com os seguintes atributos:
 
 id: ID do funcionário
+
 nome: Nome do funcionário
+
 idade: Idade do funcionário
+
 email: Email do funcionário
+
 telefone: Telefone do funcionário
+
 alergia: Alergias do funcionário
+
 condicaoMedica: Condições médicas do funcionário
 
 entity.Funcionario
