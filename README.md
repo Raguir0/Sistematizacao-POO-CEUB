@@ -12,8 +12,11 @@ Project.utility: Contém a classe Utility com métodos utilitários para o menu 
 entity: Contém as classes Pessoa e Funcionario que representam os dados dos funcionários.
 
 Funcionalidades
+
 Adicionar Funcionário: Permite adicionar um novo funcionário ao sistema.
+
 Pesquisar Funcionário: Permite buscar um funcionário pelo seu ID.
+
 Sair: Encerra o programa.
 
 Requisitos
