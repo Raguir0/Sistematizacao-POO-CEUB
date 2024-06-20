@@ -1,4 +1,5 @@
 Projeto de Gerenciamento de Funcionários
+
 Descrição
 Este projeto é uma aplicação simples em Java para gerenciar informações de funcionários. Ele permite adicionar, pesquisar e listar funcionários, fornecendo um menu interativo para o usuário.
 
