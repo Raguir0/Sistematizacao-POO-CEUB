@@ -21,7 +21,7 @@ Funcionalidades
 
 Requisitos
 
- -Java 8 ou superior
+ - Java 8 ou superior
 
  - IDE para Java (Eclipse, IntelliJ, NetBeans, etc.) ou ambiente de linha de comando configurado para Java
 
